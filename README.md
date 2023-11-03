@@ -18,21 +18,7 @@ The project aims to predict housing prices based on features like crime rate, nu
 - Python (3.x recommended)
 - Required libraries: NumPy, Pandas, Matplotlib, Scikit-Learn
 
-## Installation
-
-1. Clone this repository:
-
-git clone https://github.com/yourusername/boston-housing-prediction.git
  
-
-
-2. Install the required Python libraries:
-
-pip install numpy pandas matplotlib scikit-learn
-
- 
-
-
 ## Usage
 
 1. Navigate to the project directory:
