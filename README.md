@@ -1,4 +1,4 @@
-# Boston-Housing-Kaggle-Challenge-with-Linear-Regression_hper
+#  Boston-Housing_Cross-Validation-Hyperparameter-Tuning
 
 This project involves building a Linear Regression model to predict housing prices in the city of Boston using the Boston Housing dataset. The dataset consists of 506 instances with 13 features. The primary goal is to create a regression model that accurately predicts housing prices.
 
